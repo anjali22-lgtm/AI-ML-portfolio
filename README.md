@@ -6,8 +6,8 @@
 
 ## 🌐 Live Portfolio
 
-👉 **Live Demo:**  
-https://ai-ml-portfolio-anjali.streamlit.app
+Live AI/ML Portfolio:
+https://ai-ml-portfolio-kei7avvcuckxoyfajmxq8s.streamlit.app/
 
 ---
 
